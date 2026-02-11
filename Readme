@@ -1,0 +1,20 @@
+# 🌍 Tableau: Global Public Health & Time-Series Data Analysis
+
+This project showcases expertise in utilizing **Tableau** for visualizing complex **geospatial and time-series data**. The focus is on public health, specifically tracking and analyzing the global and regional trends of the COVID-19 pandemic.
+
+### 🎯 Business Objective
+
+To provide a clear, real-time, and easily digestible view of the pandemic's impact, enabling public health officials and stakeholders to monitor the progression, identify regional disparities, and understand temporal trends.
+
+### 📊 Key Achievements & Results
+
+* **Comprehensive Geospatial Analysis:** Created interactive **heatmaps and filled maps** to clearly display infection and fatality rates per country and continent, immediately identifying global hotspots.
+* **Temporal Trend Tracking:** Utilized **line graphs and rolling averages** to track the progression of infection rates over a multi-year period (2020-2023), revealing peak periods and regional progression.
+* **Data Density Visualization:** Designed charts to effectively communicate high-density metrics, such as **peak infection rates (e.g., U.S. at 30.41%)**, allowing for quick, data-driven comparisons.
+* **Effective Data Storytelling:** Structured the dashboard to guide the user through global trends down to regional specifics, demonstrating strong data storytelling skills essential for executive reporting.
+
+### 🛠 Tools and Techniques
+
+* **Primary Tool:** **Tableau**.
+* **Focus Areas:** Time-Series Analysis, Geospatial Visualization, Public Data Exploration (EDA), and Executive Reporting.
+* **Skills Demonstrated:** Creating dual-axis charts, advanced filtering, use of parameters, and optimized color palettes for high-impact visualization.
